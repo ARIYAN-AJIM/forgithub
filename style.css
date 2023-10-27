@@ -1,6 +1,6 @@
 @font-face {
     font-family: buttermilk;
-    src: url(./font/buttermilk/Buttermilk.otf);
+    src: url(./font/buttermilk/Buttermilk.woff2);
 }
 
 @import url('https://fonts.googleapis.com/css2?family=Syne:wght@400;500;600;700;800&display=swap');
@@ -20,7 +20,7 @@ html,body{
 .bg{
     height: 100%;
     width: 100%;
-    background-image: url('https://images.pexels.com/photos/1076885/pexels-photo-1076885.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
+    background-image: url('img/pexels-photo-1076885.webp');
     background-size: cover;
     background-position: center;
 }
